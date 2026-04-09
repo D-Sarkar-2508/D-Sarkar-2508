@@ -8,7 +8,7 @@
 
 # ✨ Ditipriya Sarkar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+ideas+into+code+%F0%9F%92%A1;Python+%7C+C+%7C+SQL+%7C+Java;Building+elegant+solutions...;Passionate+about+clean+code+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=I+am+Ditipriya+%F0%9F%91%8B;Turning+ideas+into+code+%F0%9F%92%A1;Python+%7C+C+%7C+SQL+%7C+Java;Building+elegant+solutions...;Passionate+about+clean+code+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
