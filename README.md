@@ -29,6 +29,7 @@ I'm a **passionate developer** at the intersection of **AI Engineering** and **m
 | | |
 |---|---|
 | 🎓 **Education** | B.Tech CSE (AIML) |
+| 🏛️ **University** | Brainware University |
 | 📅 **Year** | 3rd Year |
 | 💚 **Passion** | Python · AI/ML · Web Development |
 | 📍 **Location** | Kolkata, West Bengal, India |
