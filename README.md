@@ -52,50 +52,12 @@ I'm a **passionate developer** at the intersection of **AI Engineering** and **m
 
 ## 🏆 Skills & Achievements
 
-<table>
-<tr>
-<td width="50%">
-
-### 🐍 Python
-- Proficient in Python's core libraries for scripting and automation
-- Experience with **Pandas & NumPy** for data analysis
-- Built automation scripts to streamline file operations
-- Strong grasp of **OOP concepts** and functional programming
-- Worked with APIs and JSON parsing
-
-</td>
-<td width="50%">
-
-### 🤖 AI / ML
-- Hands-on with **Machine Learning** model building and evaluation
-- Familiar with **Scikit-learn**, **TensorFlow** and **Hugging Face**
-- Understanding of **supervised & unsupervised** learning techniques
-- Exploring **LLMs and RAG Architecture**
-- Applied data preprocessing & feature engineering
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🗄️ SQL
-- Comfortable writing **SELECT, JOIN, GROUP BY**, and subqueries
-- Designed normalized relational database schemas
-- Experience with **MySQL, PostgreSQL**, and SQLite
-- Understanding of indexing and query optimization
-
-</td>
-<td width="50%">
-
-### 🌐 Web Development
-- Built responsive web pages using **HTML5, CSS3 & JavaScript**
-- Experience with **React** for front-end development
-- Back-end development with **Node.js** and **Flask**
-- Understanding of **REST APIs** and client-server architecture
-
-</td>
-</tr>
-</table>
+* 🐍 **Python**
+* ☕ **Java**
+* 💻 **C**
+* 🗄️ **SQL**
+* 🌐 **Web Development**
+* 🤖 **AI / ML**
 
 ---
 
